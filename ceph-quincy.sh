@@ -2,7 +2,7 @@
 
 ############################################################
 # CephAdmin Install Script for Debian 10, 11 (Bullseye)
-# 
+# Note: this is for testing, not running
 # run as sudo 
 ############################################################
 
