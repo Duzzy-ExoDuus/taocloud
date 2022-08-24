@@ -28,5 +28,5 @@ chmod +x /usr/local/bin/cephadm
 mkdir -p /etc/ceph
 
 # add ceph common tools
-cephadm add-repo --release pacific
+cephadm add-repo --release quincy
 cephadm install ceph-common
