@@ -2,7 +2,7 @@
 
 ############################################################
 # CephAdmin Install Script for Debian 10, 11 (Bullseye)
-# 
+# Note: CEPH Pacific version 16.2
 # run as sudo 
 ############################################################
 
